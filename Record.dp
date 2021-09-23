@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Daffa Albari\Documents\Pratikum\10120212 - DAFFA ALBARI - IF6\Record.dp
+Name=Record
+MainUnit=C:\Dev-Pas\Pratikum\Pascal\Semester1\Pertemuan13\URecord.pas
+UnitCount=1
+ResFiles=C:\Dev-Pas\Pratikum\Pascal\Semester1\Pertemuan13\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Dev-Pas\Pratikum\Pascal\Semester1\Pertemuan13\URecord.pas
+FileTime=1380424546
